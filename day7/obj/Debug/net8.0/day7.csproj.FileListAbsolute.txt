@@ -1,0 +1,15 @@
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/bin/Debug/net8.0/day7
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/bin/Debug/net8.0/day7.deps.json
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/bin/Debug/net8.0/day7.runtimeconfig.json
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/bin/Debug/net8.0/day7.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/bin/Debug/net8.0/day7.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.GeneratedMSBuildEditorConfig.editorconfig
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.AssemblyInfoInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.AssemblyInfo.cs
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.csproj.CoreCompileInputs.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.sourcelink.json
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/refint/day7.dll
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.pdb
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/day7.genruntimeconfig.cache
+/home/u/Desktop/MICROSOFT/PRACTISE/DSA/day7/obj/Debug/net8.0/ref/day7.dll
