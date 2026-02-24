@@ -1,0 +1,15 @@
+/home/javohir/Desktop/DSA/day24.1/project/project/bin/Debug/net10.0/project
+/home/javohir/Desktop/DSA/day24.1/project/project/bin/Debug/net10.0/project.deps.json
+/home/javohir/Desktop/DSA/day24.1/project/project/bin/Debug/net10.0/project.runtimeconfig.json
+/home/javohir/Desktop/DSA/day24.1/project/project/bin/Debug/net10.0/project.dll
+/home/javohir/Desktop/DSA/day24.1/project/project/bin/Debug/net10.0/project.pdb
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.AssemblyInfoInputs.cache
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.AssemblyInfo.cs
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.csproj.CoreCompileInputs.cache
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.sourcelink.json
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.dll
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/refint/project.dll
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.pdb
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/project.genruntimeconfig.cache
+/home/javohir/Desktop/DSA/day24.1/project/project/obj/Debug/net10.0/ref/project.dll
