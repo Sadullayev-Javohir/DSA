@@ -1,0 +1,15 @@
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.sourcelink.json
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/home/javohir/Desktop/DSA/day28.1/ConsoleApp/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
